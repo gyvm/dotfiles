@@ -1,0 +1,11 @@
+### ignore all ###
+/*
+/.**
+
+### not ignore ###
+!/setup.sh
+!/_link.sh
+!/wezterm
+
+!/README.md
+!.gitignore
